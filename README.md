@@ -28,6 +28,7 @@ Due to the dual implementations I didn't do pattern matching, I would have imple
 - Duplicates aren't errors, but are reported on and will show in unmatched.
 - Files with missing / different columns aren't treated as errors, just empty fields.
 - Duplicates are treated as unique values instead of hidden. Ie Two duplicates in file 1 with a single match in file 2 will result in one of the file 1 duplicates showing up as unmatched
+- According to the CSV standards it doesn't seem files should end with delimeter comma's, but I've just suppresed this error in the CSV parser.
 
 ### Speaking to some of the things being monitored.
 ### Layout and design
