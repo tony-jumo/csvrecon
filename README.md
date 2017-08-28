@@ -8,7 +8,7 @@ Let me know when to remove it and I'll pull it down
 https://github.com/tonym128/csvrecon
 
 ## CSV Recon Windows App (C# - Visual Studio 2017)
-http://tutuka.s3-website.eu-west-2.amazonaws.com/tutuka/Files/TutukaTonyMamacosTrailProject.zip
+https://s3.eu-west-2.amazonaws.com/tutuka/Files/TutukaTonyMamacosTrailProject.zip
 
 ## Some Test Data I made while working on it.
 https://s3.eu-west-2.amazonaws.com/tutuka/Files/TestData.zip
